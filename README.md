@@ -1,7 +1,7 @@
 # BetterDres for KSP v1.5.*
 
 ### What does it do?
-- Makes Dres slightly more inclined, from 5° in Stock KSP, to 2° in BetterDres
+- Makes Dres slightly less inclined, from 5° in Stock KSP, to 2° in BetterDres
 - Adds a few tiny moons to keep Dres company.
 - All-new ScienceDefs!
 - Five new biomes to explore.
