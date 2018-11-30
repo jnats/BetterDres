@@ -22,13 +22,14 @@ Of course it will! BetterDres works with any mod that doesn't alter Dres directl
 - PlanetShine
 - DistantObjectEnhancement
 
-### Legal Shenanigargles
+### Legal Shenanagargles
 The BetterDres mod is being maintained collaboratively by a group of 3 blokes.
 The BetterDres mod is also licensed by the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. Which is long and boring and is found either in the LICENSE.md file or conveniently right here, simplified:
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-### Other info:
+### Other info
 We have a Discord server! pop into it through this link if you want to have a chat!
 https://discord.gg/aMrjMcS
+This mod was also not made by professionals whatsoever. Look into the code at your gut's and OCD's risk!
 
 ### Thank you for reading and have fun!
