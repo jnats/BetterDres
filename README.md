@@ -20,6 +20,7 @@ It's that simple!
 Of course it will! BetterDres works with any mod that doesn't alter Dres directly! It will also work together with these supported mods:
 
 - PlanetShine
+
 and
 - DistantObjectEnhancement
 
