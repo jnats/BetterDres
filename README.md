@@ -12,7 +12,7 @@ Well, person reading this README.md, it's actually very, very easy!
 
 1. Download the latest release of this mod
 2. Open it in WinRar (or any other program that an open .rar files!)
-3. Merge the GameData folder inside the .rar file with your GameData folder!
+3. Drag the BetterDres folder from the .rar into your GameData folder!
 
 It's that simple!
 
