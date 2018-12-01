@@ -21,6 +21,7 @@ Of course it will! BetterDres works with any mod that doesn't alter Dres directl
 
 - PlanetShine
 - DistantObjectEnhancement
+- ResearchBodies
 
 ### Legal Shenanagargles
 The BetterDres mod is being maintained collaboratively by a group of 3 blokes.
