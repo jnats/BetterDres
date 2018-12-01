@@ -28,7 +28,7 @@ The BetterDres mod is being maintained collaboratively by a group of 3 blokes.
 The BetterDres mod is also licensed by the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. Which is long and boring and is found either in the LICENSE.md file or conveniently right here, simplified:
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-Panca's heightmap WAS one of GregroxMun's "Ellipsoid" textures. We have created our own Ellipsoid heightmap which is not ownership of GregroxMun but Zherdev.
+Panca's and Puff's heightmap WAS one of GregroxMun's "Ellipsoid" textures. We have created our own heightmaps which are not ownership of GregroxMun but Zherdev.
 This isn't to say of course that we weren't thankful for the time we were using his textures, as they were a good stepping stone and indicator of what we wanted to do with the mod.
 
 ### Other info
