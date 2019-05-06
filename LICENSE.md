@@ -1,4 +1,4 @@
-The "BetterDres" mod is licensed by Zherdev under the following license:
+The "BetterDres" mod is licensed by jnats/jn@s under the following license:
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
